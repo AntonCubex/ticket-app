@@ -8,5 +8,4 @@ export interface Ticket {
 	active: boolean;
 	createdAt: string;
 	_id: string | number;
-	foundTicket?: Ticket;
 }
